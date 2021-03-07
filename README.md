@@ -2,8 +2,9 @@
 
 # Interactive population genetics simulations
 
-## Moran model (`moran.ipynb`)
+## Moran model
 
+`moran.ipynb`
 * two alleles, 1 & 2
 * mutations from allele 1 to allele 2 and vice versa
 * selection
